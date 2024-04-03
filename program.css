@@ -1,0 +1,174 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    width: 100%;
+    height: 80px;
+    padding: 0 20px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo img
+{
+    width: 150px;
+    /* margin-top: 30px; */
+    margin-left: 100px;
+}
+.mylink
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 40px;
+}
+.mylink li
+{
+    list-style: none;
+}
+.mylink a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 0 10px;
+}
+.login
+{
+    padding-left: 20px;
+}
+.login a
+{
+    color: white;
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.aaa
+{
+width: 500px;
+background-color: white;
+color: black;
+margin: 10px 10px;
+padding: 10px 10px;
+text-align: left;
+text-decoration: none;
+}
+.new
+{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 50px;
+}
+.aaa h1
+{
+    font-size: 20px;
+    font-style: blue;
+    margin-bottom: 20px;
+}
+.aaa h2
+{
+    font-size: 50px;
+}
+.aaa p 
+{
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.bbb a
+{
+    color: white;
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-decoration: none;}
+    .ccc a
+{
+    color: white;
+    background-color: gray;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-decoration: none;}
+    .op img
+    {
+        height: 400px;
+        width: 400px;
+        margin-left: 150px;
+    }
+    .point{
+        display: flex;
+    }
+    .mid h1
+    {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 30px;
+    }
+    .two ul
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .midpoint li
+    {
+        margin-top: 10px;
+        padding: 10px;
+        list-style: none;
+        background-color: #ffc0cb42;
+    }
+.background
+{
+    background-color: #ffc0cb42 ;
+    width: 100%;
+    height: 600px;
+    margin-top: 30px;
+}
+.heading1 h1
+{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    /* margin-top: 30px; */
+}
+.heading1 p
+{
+    font-size: 15px;
+    text-align: center;
+}
+.ptm h1{
+    text-align: center;
+    align-items: center;
+}
+.ptm p{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+
+}
+.ptm
+{
+    height: 250px;
+    width: 300px;
+    background-color: blue;
+    border: solid ;
+    color: white;
+}
+.icons 
+{
+    margin-top: 10px;
+    margin-left: 150px;
+    list-style: none;
+}
